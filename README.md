@@ -6,6 +6,5 @@
 ## Content
 -As the size of the files is too large to be uploaded, the files have been zipped.
 -To view the files, please download and unzip it for the content. Thanks
--The main webpage is named as Chess.APU_main_menu.html
--
+### The main webpage is named as Chess.APU_main_menu.html
 -While the rest webpages are stored in the folder named Subwebpage.
